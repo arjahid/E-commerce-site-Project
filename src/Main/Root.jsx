@@ -6,7 +6,7 @@ import Carosel from "../components/Header/Carosel";
 const Root = () => {
   return (
     <div className="container mx-auto">
-      <header>
+      <header className="container mx-auto">
         <Nav></Nav>
         <Carosel></Carosel>
       </header>

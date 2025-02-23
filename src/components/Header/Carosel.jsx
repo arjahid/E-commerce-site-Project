@@ -2,7 +2,7 @@ import React from 'react';
 
 const Carosel = () => {
     return (
-        <div>
+        <div className='w-8/12 mx-auto'>
             <div className="carousel w-full">
   <div id="item1" className="carousel-item w-full">
     <img
